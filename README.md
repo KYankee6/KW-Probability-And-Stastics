@@ -11,32 +11,32 @@
 
 
 ----
-1. 라플라스 분포를 갖는 random variable 생성과 검증
+## 1. 라플라스 분포를 갖는 random variable 생성과 검증
 - Uniform Distribution -> Laplace Distribution
 - chi-squared test, K-S test
 
-2. 한 개의 영상을 다른 영상의 histogram과 같은 분포가 되도록 매칭하는 SW 작성
+## 2. 한 개의 영상을 다른 영상의 histogram과 같은 분포가 되도록 매칭하는 SW 작성
 - Lenna
 - PDF, CDF의 개념
 - RAW data manipulation
 
-3. huffman coding
+## 3. huffman coding
 - Create a Huffman encoder, decoder (ASCII code <-> Huffman code).
 - stuffing, byte align 고려
 
-4. Context adaptive huffman coding
+## 4. Context adaptive huffman coding
 - pick best huffman code table and minimize the cost
 - 압축률
 
-5. 중간고사 (저작권, 포함안됨)
+## 5. 중간고사 (저작권, 포함안됨)
 - FP, FN, TP, TN의 개념 이해
 - FMD Disease and classfiers(+ differences/pros-cons of each classifiers)
 - 다양한 분포들과 그에 대한 설명
 - transform random variable PDF to other PDF's random variable and pseudo code
 
-6. card counting (Black Jack)
+## 6. card counting (Black Jack)
 - 블랙잭 구현
 - card counting을 하여 전략(Hi - Lo)에 따라 hit/Stand 하고 승률 계산
 
-7. 기말고사
+## 7. 기말고사
 - 아니 이걸 내가 풀었다고요? ~~(잘못품)~~ 
